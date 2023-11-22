@@ -1,1 +1,1 @@
-![clock](https://github.com/med0amine/DYI-Clock/assets/151380756/fb6af24f-4192-488f-a5eb-b606dcfc844f)
+![clock](https://github.com/med0amine/DYI-Clock/assets/151380756/e952dbcb-131d-4035-903a-1ce475b4837f)
