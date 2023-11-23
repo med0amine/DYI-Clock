@@ -4,7 +4,7 @@ The system is composed of an Arduino Uno, a DS3232 timer, a 16x2 LCD screen, a b
 
 The following is the hardware design
 
-https://github.com/med0amine/DYI-Clock/blob/main/images/clock.png
+![clock](https://github.com/med0amine/DYI-Clock/blob/main/images/clock.png)
 
 The hardware design was done with Proteus 8, while the programming was done in Arduino IDE.
 
